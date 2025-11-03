@@ -130,16 +130,16 @@ JavaScript   ████████     75%
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Analytics" width="35" height="35" /> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uchexm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchexm&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nwakauc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwakauc&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uchexm&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nwakauc&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=uchexm&theme=tokyonight&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nwakauc&theme=tokyonight&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ## 🎯 Current Focus & Activities
@@ -231,11 +231,11 @@ Cloud Architecture     ████████░░  75%
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Ideas" width="35" height="35" /> Beyond the Code
+## <img src="https://raw.githubusercontent.com/nwakauc/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Ideas" width="35" height="35" /> Beyond the Code
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face.png" alt="Fun" width="30" height="30" /> Personal Highlights
+### <img src="https://raw.githubusercontent.com/nwakauc/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face.png" alt="Fun" width="30" height="30" /> Personal Highlights
 
 </div>
 
@@ -282,11 +282,11 @@ Passionate about knowledge sharing and empowering the next generation of develop
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=uchexm&label=Profile%20views&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/uchexm?label=Follow&style=social)](https://github.com/uchexm)
+![Profile Views](https://komarev.com/ghpvc/?username=nwakauc&label=Profile%20views&color=0e75b6&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/nwakauc?label=Follow&style=social)](https://github.com/nwakauc)
 
 **"Code is poetry written in logic"** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="25" height="25" />
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="20" height="20" /> From [Uchechi Nwaka](https://github.com/uchexm)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="20" height="20" /> From [Uchechi Nwaka](https://github.com/nwakauc)
 
 </div>
