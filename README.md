@@ -282,7 +282,7 @@ Passionate about knowledge sharing and empowering the next generation of develop
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=nwakauc&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views]10000(https://komarev.com/ghpvc/?username=nwakauc&label=Profile%20views&color=0e75b6&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/nwakauc?label=Follow&style=social)](https://github.com/nwakauc)
 
 **"Code is poetry written in logic"** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="25" height="25" />
