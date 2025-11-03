@@ -231,11 +231,11 @@ Cloud Architecture     ████████░░  75%
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/nwakauc/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Ideas" width="35" height="35" /> Beyond the Code
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Ideas" width="35" height="35" /> Beyond the Code
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/nwakauc/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face.png" alt="Fun" width="30" height="30" /> Personal Highlights
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face.png" alt="Fun" width="30" height="30" /> Personal Highlights
 
 </div>
 
