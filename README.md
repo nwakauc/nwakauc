@@ -54,7 +54,7 @@ class UchechiNwaka < Developer
     @languages = ["Ruby", "C#", "TypeScript", "JavaScript"]
     @frameworks = ["Rails", ".NET", "React", "Next.js"]
     @interests = ["AI/ML", "Blockchain", "Open Source"]
-    @fun_fact = "I trained to be a priest at some point"
+    @fun_fact = "I trained to be a priest at some point @vatican didn't want me"
   end
 
   def current_focus
